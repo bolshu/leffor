@@ -6,19 +6,22 @@
 
 ### Start project
 
-1. Make venv
+Make venv
 ```
 -m venv ./.venv
 ```
-1. Join to venv
+
+Join to venv
 ```
 source ./.venv/bin/activate
 ```
-1. Install dependencies
+
+Install dependencies
 ```
 pip install -r requirements.txt
 ```
-1. Run server
+
+Run server
 ```
 python3 ./src/main.py
 ```
