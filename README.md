@@ -11,7 +11,7 @@ Make venv
 -m venv ./.venv
 ```
 
-Join to venv
+Activate to venv
 ```
 source ./.venv/bin/activate
 ```
